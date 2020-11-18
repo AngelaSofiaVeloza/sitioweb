@@ -1,0 +1,87 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    font-family: "Goudy Stout";
+    font-size: 60px;
+}
+img.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
+body {
+    background-color: #f1c889;
+}
+h4 {
+    color: blue;
+    font-family: "Arial";
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    font-family: "Arial";
+    font-size: 60px;
+    text-align: left;
+}
+img.imgright {
+    display: block;
+    float: right;
+    margin-left: 30px;
+    margin-right: 0;
+    border: none;
+}
+p {
+    font-family: "Comic sans Ms";
+    font-size: 30px;
+    text-align: justify;
+}
+.back {
+    display: block;
+    float: right;
+}
+video {
+    width: 800px;
+    height: 640px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+hr {
+    background-color: red;
+    width: 90%;
+    border-color: black;
+}
+img.imghistory {
+    display: block;
+    float: right;
+    margin-left: 30px;
+    margin-right: 0;
+    border: none;
+}
+ol.listhistory {
+    font-family: "Comic sans Ms";
+    font-size: 18px;
+    text-align: justify;
+}
+table {
+    border-collapse: collapse;
+}
+td, th {
+    border: 5px solid red;
+    font-family: "Arial";
+    font-size: 60px;
+}
+li {
+    color: purple;
+    font-family: "Arial";
+    font-size: 50px;
+    text-align: left;
+}
+caption {
+    font-family: "Comic Sans Ms";
+    font-size: 65px;
+    text-align: justify;
+}
